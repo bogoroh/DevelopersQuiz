@@ -1,0 +1,12 @@
+{
+    "Language": "ENG",
+    "Currency": "USD",
+    "destination": "MCO",
+    "DateFrom": "11/26/2015",
+    "DateTO": "11/29/2015",
+    "Occupancy": {
+        "AdultCount": "1",
+        "ChildCount": "1",
+        "ChildAges": ["10"]
+    }
+}
